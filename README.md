@@ -1,0 +1,2 @@
+# qtpd
+no compartir
